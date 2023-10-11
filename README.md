@@ -1,2 +1,3 @@
-# numerical_linear_algebra
-matlab code for numerical applications of linear algebra
+# Numerical Linear Algebra
+## Author: Rohan Singh
+matlab code for numerical applications of linear algebra.
